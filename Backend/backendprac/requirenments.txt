@@ -1,0 +1,11 @@
+Flask==3.0.0
+flask-pymongo
+flask-bcrypt
+flask-jwt-extended
+flask-cors
+
+python-dotenv
+Pillow
+numpy
+tensorflow
+gunicorn
