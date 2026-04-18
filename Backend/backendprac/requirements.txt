@@ -1,11 +1,19 @@
-Flask==3.0.0
-flask-pymongo
-flask-bcrypt
-flask-jwt-extended
-flask-cors
+# Flask==3.0.0
+# flask-pymongo
+# flask-bcrypt
+# flask-jwt-extended
+# flask-cors
 
-python-dotenv
-Pillow
-numpy
-tensorflow
-gunicorn
+# python-dotenv
+# Pillow
+# numpy
+# tensorflow
+# gunicorn
+
+Flask==2.3.3
+flask-pymongo==2.3.0
+flask-bcrypt==1.0.1
+flask-jwt-extended==4.6.0
+flask-cors==4.0.0
+python-dotenv==1.0.1
+gunicorn==21.2.0
